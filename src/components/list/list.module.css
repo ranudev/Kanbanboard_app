@@ -1,0 +1,17 @@
+.list{
+    width:220px;
+     height:60px;
+    border: 2px solid black;
+    margin:10px;
+    list-style: none;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    
+    text-align: center;
+    justify-content: center;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:#7F8C8D 
+    
+}
